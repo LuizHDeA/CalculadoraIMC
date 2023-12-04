@@ -28,6 +28,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## Author
 
+Conecte-se comigo no Linkedin (https://www.linkedin.com/in/luiz-henrique-de-almeida-0b70592a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRCMH6LYsSCeE0w98qjucsQ%3D%3D)
 
 ## License
 ```
